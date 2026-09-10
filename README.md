@@ -1,42 +1,54 @@
 # Prime OS
 
-A modern, browser-based operating system interface built with HTML, CSS, and JavaScript.
+A contemporary, web-based operating system interface developed using HTML, CSS, and JavaScript.
 
-## 🚀 Demo
+## Demo
 
-**Live Demo:** https://rafey47.github.io/prime-os/
+Live Demo:  https://rafey47.github.io/prime-os/
 
-## 📖 About
+## About
 
-Prime OS is a web-based OS interface designed to feel like a lightweight desktop environment running directly in your browser.
+Prime OS is a browser-based OS interface crafted to provide a lightweight desktop environment experience within your browser.
 
-The project includes a desktop interface, application-style windows, navigation, and interactive UI elements.
+The project features a desktop interface, application-like windows, navigation options, and engaging UI components.
 
-## ✨ Features
+## Features
 
-* 🖥️ Desktop-style interface
-* 🪟 Interactive application windows
-* 📱 Responsive layout
-* 🎨 Modern UI design
-* ⚡ Runs directly in the browser
-* 🌐 No installation required
-* 🔗 Live GitHub Pages deployment
+* Desktop-like interface
 
-## 🛠️ Built With
+* Interactive application windows
+
+* Responsive design
+
+* Modern user interface
+
+* Operates directly in the browser
+
+* No installation necessary
+
+* Live deployment on GitHub Pages
+
+## Built With
 
 * HTML5
+
 * CSS3
+
 * JavaScript
+
 * GitHub Pages
 
-## 🎮 How to Use
+## How to Use
 
-1. Open the live demo.
-2. Interact with the desktop interface.
-3. Open and explore the available applications and UI elements.
+1. Access the live demo.
+
+2. Engage with the desktop interface.
+
+3. Open and navigate through the available applications and UI features.
+
 4. Everything runs directly in your web browser.
 
-## 💻 Run Locally
+##  Run Locally
 
 Clone the repository:
 
@@ -48,7 +60,7 @@ Open the project folder and launch `index.html` in your browser.
 
 No additional dependencies or installation are required.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 prime-os/
@@ -58,13 +70,13 @@ prime-os/
 └── README.md
 ```
 
-## 🎯 Project Goal
+##  Project Goal
 
 The goal of Prime OS is to experiment with creating an operating-system-like experience entirely on the web.
 
 Instead of building a traditional operating system with low-level system components, Prime OS focuses on recreating the desktop experience using standard web technologies.
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Possible future updates include:
 
@@ -75,12 +87,12 @@ Possible future updates include:
 * Additional desktop interactions
 * More system-style features
 
-## 👤 Author
+##  Author
 
-Created by **Rafey**
+Created by Rafey
 
 GitHub: https://github.com/Rafey47
 
-## 📄 License
+##  License
 
 This project is open source and available for learning and experimentation.
